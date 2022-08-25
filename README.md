@@ -1,2 +1,2 @@
 # Blockchain-for-Smart-Territoires
-Système de Sécurisation par les technologies Blockchain des transactions dans les plateformes de données au service du développement des smart territoires
+Blockchain technology security system for transactions in data platforms for the development of smart territories
